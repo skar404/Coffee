@@ -2,7 +2,7 @@ from setuptools import setup
 import os
 
 setup(
-    name="coffee-morse",
+    name="caff",
     version="0.0.1",
     py_modules=["caff"],
     url="https://github.com/skar404/coffee",
