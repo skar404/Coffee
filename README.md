@@ -4,7 +4,7 @@ Text to coffee morse code and coffee morse to text
 
 Install:
 ```bash
-pip install coffee-morse
+pip install caff
 ```
 
 Use: 
